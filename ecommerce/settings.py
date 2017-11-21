@@ -25,7 +25,7 @@ SECRET_KEY = '73mahw=f0x6^^(pnvozasn#nde$&$#b)-+qn%75z4!^#a-_%5)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ecommerce-blaineriley.c9users.io']
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
 
